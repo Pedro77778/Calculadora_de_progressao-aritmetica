@@ -11,7 +11,6 @@ Para testar o programa diretamente no seu navegador, clique no link abaixo:
 - Pede o primeiro termo da sequência.
 - Pede a razão.
 - Pede a quantidade de termos que você quer ver.
-- Bloqueia entradas que não sejam números (letras são ignoradas!).
 - Gera a sequência progressiva aritmética na tela.
 
 ---
